@@ -1,0 +1,53 @@
+.mainbox {
+  border: 3px solid black;
+  margin: 15px;
+  box-shadow: 15px 15px 5px rgb(104, 103, 103);
+  width: 80vw;
+}
+.subbox4{
+  background-color:rgb(245, 224, 224);
+  width: 73vw;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  position: relative;
+  padding-top: 20px;
+  padding-left:6.9vw;
+  padding-bottom: 10px;
+  column-gap: 30px;
+ 
+}
+.pic1{
+  height: 200px;
+}
+.sb3{
+  background-color:rgb(245, 224, 224) ;
+  width: 80vw;
+  /* position: relative; */
+  /* left: 30vw; */
+}
+.sb1{
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.sb1 div{
+  font-weight: bold;
+}
+.button1{
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  background-color: skyblue;
+  position: relative;
+  left: 69vw;
+}
+.anchor1{
+  text-decoration: none;
+  color: black;
+}
